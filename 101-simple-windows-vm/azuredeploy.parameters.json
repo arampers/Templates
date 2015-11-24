@@ -16,10 +16,10 @@
       },
       "location": {"value":"West US"
       },
-      "SizeOfDiskInGB":{"Value":"20"
-      }
-      }
-      }
+      "sizeOfDiskInGB":{"value":"20"}
+  }
+} 
+      
       
     
    
