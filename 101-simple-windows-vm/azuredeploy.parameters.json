@@ -3,17 +3,29 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "brstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
-    }
-  }
-}
+      "value": "br2309"
+      },
+      "location": {"value":"West US"
+      },
+      "SizeOfDiskInGB":{"Value":"20"
+      }
+      }
+      }
+      
+    
+   
+   
+     
+   
+  
+
 
